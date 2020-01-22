@@ -1,5 +1,5 @@
 # Mutant-X
-This repository contains code for the Authorship Obfuscation tool called "Mutant-X" presented in PoPETs 2019 (https://petsymposium.org/2019/files/papers/issue4/popets-2019-0058.pdf)
+This repository contains code for the Authorship Obfuscation tool called "Mutant-X" presented in PoPETs 2019 (https://petsymposium.org/2019/files/papers/issue4/popets-2019-0058.pdf).
 
 ### Requirments
 
@@ -11,7 +11,7 @@ In order to run the code, you need to fulfill following requirements:
 5. Install libraries required for this project using the following command: `pip3 install -r requirements.txt`
 
 ### Usage Instructions
-In order to create the obfuscated document using Mutant-X, run Obfuscator.py in the following way.
+In order to create the obfuscated document using writeprintsRFC Mutant-X, run Obfuscator.py in the following way.
 
 `python3 Obfuscator.py`
 
