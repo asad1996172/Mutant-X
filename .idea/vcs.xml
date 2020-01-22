@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Code/pycocoevalcap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pycocoevalcap" vcs="Git" />
   </component>
 </project>
