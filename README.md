@@ -40,7 +40,7 @@ Running this script generates a document named `Obfuscated_text.txt` which conta
 Please use the following citation when using the code.
 
 ```
-@article{mahmood2019girl,
+@article{mahmood2019mutantx,
   title={A Girl Has No Name: Automated Authorship Obfuscation using Mutant-X},
   author={Mahmood, Asad and Ahmad, Faizan and Shafiq, Zubair and Srinivasan, Padmini and Zaffar, Fareed},
   journal={Proceedings on Privacy Enhancing Technologies},
