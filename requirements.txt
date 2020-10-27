@@ -11,7 +11,7 @@ catalogue==1.0.0
 certifi==2018.1.18
 chardet==3.0.4
 command-not-found==0.3
-cryptography==2.1.4
+cryptography==3.2
 cupshelpers==1.0
 cymem==2.0.3
 defer==1.0.6
